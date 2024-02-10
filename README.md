@@ -1,1 +1,1 @@
-# Yom-Kippur
+# Networks Neurons in JavaScript 
